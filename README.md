@@ -1,4 +1,4 @@
-#Kurulum
+# Kurulum
 
 1. Zip dosyasını çıkartınız.
 2. Eğer kurulu değilse PHP ve Composer kurulumunu gerçekleştiriniz.

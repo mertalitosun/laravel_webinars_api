@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "35adf1cf-a4ab-4126-9bef-ee09046ec15d",
+		"name": "Webinars",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37040349"
+	},
+	"item": [
+		{
+			"name": "webinars",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8000/webinars",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"webinars"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
